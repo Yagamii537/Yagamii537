@@ -2,7 +2,10 @@
 
 # ![](https://github.com/Yagamii537/Yagamii537/blob/main/banner.jpg)
 
-### Freelance full-stack
+### Freelance, Ingeniero en sistemas y muy pronto Master en desarrollo Web Full Stack ✨
+
+
+
 
 <!--
 **Yagamii537/Yagamii537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
