@@ -5,6 +5,8 @@
 ### Freelance, Ingeniero en sistemas y muy pronto Master en desarrollo Web Full Stack ✨
 
 
+### Aqui abajo dejare algunos de los proyectos que realice o me encuentro trabajando :point_down:
+
 
 
 <!--
