@@ -1,6 +1,6 @@
-# ![](https://github.com/Yagamii537/Yagamii537/blob/main/banner.jpg) Hola, mi nombre es Brais Moure 👋
+# ![](https://github.com/Yagamii537/Yagamii537/blob/main/banner.jpg) Yagami me dicen mis amigos, y soy Desarrollador Web 😄
 
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack
 
 <!--
 **Yagamii537/Yagamii537** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
