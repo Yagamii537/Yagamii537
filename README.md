@@ -1,4 +1,4 @@
-# Yagami me dicen mis amigos, y soy Desarrollador Web 😄
+# Yagami me dicen mis amigos 👯, y soy Desarrollador Web 😄
 
 # ![](https://github.com/Yagamii537/Yagamii537/blob/main/banner.jpg)
 
